@@ -1,4 +1,4 @@
-# data_collection
+# data-collection
 For this challenge we dealt with two different jupyter notebooks in order to get information for our trip to mars.
 Deliverable 1: A Jupyter notebook containing code that scrapes the Mars news titles and preview text.
 Deliverable 2: A Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualizes, and analyzes that data.
